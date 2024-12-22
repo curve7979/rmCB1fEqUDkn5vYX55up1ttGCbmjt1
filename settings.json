@@ -1,5 +1,5 @@
 {
-  "PLM_SG" : "https://script.google.com/macros/s/AKfycbxxhiQ39VTBREGk1lwnyuDfbXuSkvdXRTWq0nQSPPd9GZXCcHqppJmPs_mj2xVg-pYL5g/exec",
-  "PLM_DK_1": "https://script.google.com/macros/s/AKfycbxQ900BWk1r6QsX4dtoAZ0nCSpc9ZFqza3IfQyoKanAiomBm-CcSG0TqIV9IyVgdviR/exec",
-  "PLM_DK_2": "https://script.google.com/macros/s/AKfycbwW5FjtO7pfzsQArHbXaJOE3VfR5hljGQWF_pmCrl9bqF7FKDozYfuya6XuJhV9JZUT/exec",
+  "name": "example", // Đúng: name được bọc trong dấu ngoặc kép
+  "version": "1.0.0",
+  "description": "This is a sample JSON file."
 }
